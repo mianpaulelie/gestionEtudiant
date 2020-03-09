@@ -1,0 +1,22 @@
+ projet_etudiant
+
+      inscrire_etudiant (app folder)
+
+          migrations (includes files related to migrations)
+
+          templates
+            inscrire_etudiant
+                base.html
+                form_etudiant.html
+                list_etudiant.html
+
+           models.py
+           forms.py
+           urls.py
+           views.py
+      
+      projet_etudiant (project folder)
+
+           settings.py
+           urls.py
+           
